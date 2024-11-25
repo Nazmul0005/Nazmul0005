@@ -1,4 +1,4 @@
-![logo](https://github.com/Nazmul0005/Nazmul0005/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/Nazmul0005/Nazmul0005/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
 <h3 align="center">A passionate AI/ML learner from Bangladesh</h3>
 
