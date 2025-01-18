@@ -11,8 +11,7 @@
 - 💬 Ask me about **Machine Learning, Generative AI etc**
 
 - 📫 How to reach me **contentondemand904@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
