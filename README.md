@@ -1,7 +1,7 @@
 # Hi there, I'm Nazmul Islam! 👋
 
 <div align="center">
-  <img src="https://github.com/Nazmul0005/Nazmul0005/blob/main/github_banner.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/Nazmul0005/Nazmul0005/blob/main/Brown & Black Geometric Personal Branding LinkedIn Banner(1).png" alt="Banner" width="100%"/>
 </div>
 
 <h3 align="center">🤖 AI/ML Engineer | 📊 Data Scientist | 🔬 Published Researcher</h3>
